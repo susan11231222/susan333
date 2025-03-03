@@ -1,1 +1,1 @@
-print("susan wangui ")
+print("")
